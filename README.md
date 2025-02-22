@@ -45,7 +45,7 @@ Este projeto realiza:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seuusuario/titanic-decision-tree.git
+   git clone https://github.com/adairjuniordata/titanic-decision-tree.git
    ```
 
 2. **Instale as dependências**:
@@ -55,7 +55,7 @@ Este projeto realiza:
 
 3. **Execute o script**:
    ```bash
-   python nome_do_script.py
+   python titanic_decision.py
    ```
 
 ---
