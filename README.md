@@ -4,6 +4,9 @@ Este repositório apresenta um modelo de **Machine Learning** baseado em **Árvo
 
 ---
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lu96iCZDE_aRB3Kx5hwLdoHyPShYnueq#scrollTo=cfe51bca)
+
+
 ## 📌 Visão Geral
 Este projeto realiza:
 
