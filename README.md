@@ -57,13 +57,11 @@ Este projeto realiza:
 
 ---
 
-## 📌 Resumo do Modelo
-📌 Acurácia no treino: **97.89%**  
-📌 Acurácia no teste: **79.89%**  
-📌 Indicação de overfitting 🚨  
+## 📌 Resumo do Modelo  
+📌 Acurácia no teste: **82.02%**  
+ 
 
 ## 🔍 Melhorias Futuras
-🔹 Reduzir `max_depth` para 5 a fim de melhorar a generalização.  
 🔹 Ajustar hiperparâmetros (`min_samples_split`, `min_samples_leaf`) para reduzir overfitting.  
 🔹 Explorar outros algoritmos, como **Random Forest** ou **XGBoost**, para possível ganho de desempenho.  
 
